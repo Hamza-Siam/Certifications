@@ -14,16 +14,16 @@
 
 * <h4><b> Demistyifing AI/ML/DL - AWS </b></h4> 
 
-  The certificate recognizes the successful completion of training in Demystifying AI, Machine Learning, and Deep Learning with AWS. [Demistyifing AI/ML/DL - AWS - Certificate](https://github.com/Hamza-Siam/Certifications/blob/main/AWS%20-%20AIMLDL%20-%20Certificate.pdf)
+  The certificate recognizes the successful completion of training in Demystifying AI, Machine Learning, and Deep Learning with AWS. [Demistyifing AI/ML/DL - AWS - Certificate](https://github.com/Hamza-Siam/Hamza-Siam/blob/main/AWS%20-%20AIMLDL%20-%20Certificate.pdf)
 
 * <h4><b> Machine Learning Essentials for Business & Technical Decision Makers - AWS </b></h4> 
 
-  The certificate recognizes the successful completion of training in Machine Learning Essentials for Business and Technical Decision Makers with AWS, covering key AI/ML concepts, their business applications, and strategic decision-making insights.. [Machine Learning Essentials for Business & Technical Decision Makers - AWS - Certificate](https://github.com/Hamza-Siam/Certifications/blob/main/AWS%20-%20Machine%20Learning.pdf)
+  The certificate recognizes the successful completion of training in Machine Learning Essentials for Business and Technical Decision Makers with AWS, covering key AI/ML concepts, their business applications, and strategic decision-making insights.. [Machine Learning Essentials for Business & Technical Decision Makers - AWS - Certificate](https://github.com/Hamza-Siam/Hamza-Siam/blob/main/AWS%20-%20Machine%20Learning.pdf)
 
 * <h4><b> Machine Learning for Business Challenges - AWS </b></h4> 
 
-  The certificate recognizes the successful completion of training in Machine Learning for Business Challenges with AWS, focusing on applying AI and ML solutions to real-world business problems. [Machine Learning for Business Challenges - AWS - Certificate](https://github.com/Hamza-Siam/Certifications/blob/main/AWS%20-%20Business%20Challenges.pdf)
+  The certificate recognizes the successful completion of training in Machine Learning for Business Challenges with AWS, focusing on applying AI and ML solutions to real-world business problems. [Machine Learning for Business Challenges - AWS - Certificate](https://github.com/Hamza-Siam/Hamza-Siam/blob/main/AWS%20-%20Business%20Challenges.pdf)
 
 * <h4><b> Friend of Delegation & Logistics - EXPO SCIENCES ASIA </b></h4> 
 
-  The certificate recognizes the successful completion of the role of Friend of Delegation and Logistics at Expo Sciences Asia, supporting delegation coordination and logistical operations. [Friend of Delegation & Logistics - EXPO SCIENCES ASIA - Certificate](https://github.com/Hamza-Siam/Certifications/blob/main/Friend%20of%20Delegation.pdf)
+  The certificate recognizes the successful completion of the role of Friend of Delegation and Logistics at Expo Sciences Asia, supporting delegation coordination and logistical operations. [Friend of Delegation & Logistics - EXPO SCIENCES ASIA - Certificate](https://github.com/Hamza-Siam/Hamza-Siam/blob/main/Friend%20of%20Delegation.pdf)
