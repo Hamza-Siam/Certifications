@@ -18,7 +18,7 @@
 
 * <h4><b> Machine Learning Essentials for Business & Technical Decision Makers - AWS </b></h4> 
 
-  The certificate recognizes the successful completion of training in Machine Learning Essentials for Business and Technical Decision Makers with AWS, covering key AI/ML concepts, their business applications, and strategic decision-making insights.. [Machine Learning Essentials for Business & Technical Decision Makers - AWS - Certificate](https://github.com/Hamza-Siam/Hamza-Siam/blob/main/AWS%20-%20Machine%20Learning.pdf)
+  The certificate recognizes the successful completion of training in Machine Learning Essentials for Business and Technical Decision Makers with AWS, covering key AI/ML concepts, their business applications, and strategic decision-making insights. [Machine Learning Essentials for Business & Technical Decision Makers - AWS - Certificate](https://github.com/Hamza-Siam/Hamza-Siam/blob/main/AWS%20-%20Machine%20Learning.pdf)
 
 * <h4><b> Machine Learning for Business Challenges - AWS </b></h4> 
 
