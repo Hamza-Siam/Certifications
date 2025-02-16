@@ -6,7 +6,7 @@
 
 * <h4><b> Software Engineering Virtual Experience - JP Morgan & Chase </b></h4> 
 
-  The certificate program focused on interfacing with a stock price data feed, utilizing JPMorgan Chase frameworks and tools, and developing visual data displays for traders. [Software Engineering Virtual Experience - JP Morgan & Chase - Certificate](https://github.com/Hamza-Siam/Data-Analysis-Projects](https://github.com/Hamza-Siam/Hamza-Siam/blob/main/Software%20Engineering%20Virtual%20Experience%20-%20JP%20Morgan%20%26%20Chase%20-%20Certificate.pdf))
+  The certificate program focused on interfacing with a stock price data feed, utilizing JPMorgan Chase frameworks and tools, and developing visual data displays for traders. [Software Engineering Virtual Experience - JP Morgan & Chase - Certificate](https://github.com/Hamza-Siam/Hamza-Siam/blob/main/Software%20Engineering%20Virtual%20Experience%20-%20JP%20Morgan%20%26%20Chase%20-%20Certificate.pdf)
 
 * <h4><b> Data Analytics Consulting Virtual Internship - KPMG </b></h4> 
 
